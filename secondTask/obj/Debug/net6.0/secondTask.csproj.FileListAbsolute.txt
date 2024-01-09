@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\kdz\secondTask\bin\Debug\net6.0\secondTask.exe
+C:\Users\lenovo\source\repos\kdz\secondTask\bin\Debug\net6.0\secondTask.deps.json
+C:\Users\lenovo\source\repos\kdz\secondTask\bin\Debug\net6.0\secondTask.runtimeconfig.json
+C:\Users\lenovo\source\repos\kdz\secondTask\bin\Debug\net6.0\secondTask.dll
+C:\Users\lenovo\source\repos\kdz\secondTask\bin\Debug\net6.0\secondTask.pdb
+C:\Users\lenovo\source\repos\kdz\secondTask\obj\Debug\net6.0\secondTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\kdz\secondTask\obj\Debug\net6.0\secondTask.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\kdz\secondTask\obj\Debug\net6.0\secondTask.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\kdz\secondTask\obj\Debug\net6.0\secondTask.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\kdz\secondTask\obj\Debug\net6.0\secondTask.dll
+C:\Users\lenovo\source\repos\kdz\secondTask\obj\Debug\net6.0\refint\secondTask.dll
+C:\Users\lenovo\source\repos\kdz\secondTask\obj\Debug\net6.0\secondTask.pdb
+C:\Users\lenovo\source\repos\kdz\secondTask\obj\Debug\net6.0\secondTask.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\kdz\secondTask\obj\Debug\net6.0\ref\secondTask.dll
