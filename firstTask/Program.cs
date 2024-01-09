@@ -105,7 +105,7 @@ namespace firstTask
                 }
                 catch (Exception ex) // поимка остальных
                 {
-                    Console.WriteLine("Возникла непредвиденная ошибка, повторите попытку:");
+                    Console.WriteLine("Возникла непредвиденная ошибка, пожалуйста, повторите попытку:");
                     continue;
                 }
             }
